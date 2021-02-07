@@ -2,11 +2,3 @@ open chrome
 close chrome
 open facebook
 close facebook
-open youtube
-close youtube
-open youtube and search india
-open youtube and search old songs
-open youtube and search new songs
-open youtube and search party songs
-open chrome and search india beauty
-open chrome and search cricket news
